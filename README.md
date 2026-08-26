@@ -1,7 +1,7 @@
 # 🌾 Expansão Estratégica de Armazenagem de Grãos no Mato Grosso
 ### Business Intelligence & Decision Support | Case ASM (Fictício)
 
-[![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-10B981?style=for-the-badge&logo=checkmarx&logoColor=white)]
+![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-10B981?style=for-the-badge&logo=checkmarx&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-Data_Analysis_Expressions-0078D4?style=for-the-badge)
 ![Power Query](https://img.shields.io/badge/Power_Query-M_Language-2BAA49?style=for-the-badge)
